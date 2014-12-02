@@ -5,49 +5,52 @@
  * 
  */
 
-
-public class HadrianClass {
 	/*
 	 * Hadrian Class for primarily constructing
 	 * <b> Hadrian-based </b> classes only.
 	 * 
 	 */
+public class HadrianClass {
+	/*
+	 * @param UselessParam
+	 * This doesn't do anythiiing
+	 * @return just prints something :))
+	 */
 	public HadrianClass(String UselessParam){
-		/*
-		 * @param UselessParam
-		 * This doesn't do anythiiing
-		 * @return just prints something :))
-		 */
+		
 		System.out.print("Created a copy of Hadrian");
 	}
+	/*
+	 * @return just prints lol :))
+	 * 
+	 */
 	public void lol(){
-		/*
-		 * @return just prints lol :))
-		 * 
-		 */
+		
 		System.out.print("lol");
 	}
+	/*
+	 * @param start starting range
+	 * @param end ending range
+	 * @result isn't actually random Fool your peers!
+	 * 
+	 */
 	public int random(int start, int end){
-		/*
-		 * @param start starting range
-		 * @param end ending range
-		 * @result isn't actually random Fool your peers!
-		 * 
-		 */
+		
 		return 2;
 	}
 	
+	/*
+	 * @result just gives you a 23143213 of type long
+	 */
+	
 	public long meh(){
-		/*
-		 * @result just gives you a 23143213 of type long
-		 */
 		return 23143213;
 	}
-	
+	/*
+	 * @result see for yourself!
+	 */
+
 	public void whoami(){
-		/*
-		 * @result see for yourself!
-		 */
 		
 		System.out.print("Guess who.");
 	}	
