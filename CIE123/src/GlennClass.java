@@ -3,9 +3,9 @@
  * @since 2014-12-03
  * @version branch-solitude02, version 1.0
  */
-public class GlennClass1 {
+public class GlennClass {
     /**
-     * This class is called GlennClass1. This
+     * This class is called GlennClass. This
      * is a description for the class.
      * <b>This is in bold.</b>
      * <h1>This is header1.</h1>
