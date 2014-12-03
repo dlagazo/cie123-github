@@ -14,14 +14,15 @@ public class GlennClass1 {
      *
      */
     public static void main(String[] args) {
-        /**
-         * This is the main function
-         * @param arg1 This is a String
-         * @param arg2 This is an int
-         * @return This does not return a value
-         */
-    }
 
+    }
+    
+    /**
+     * This is the main function
+     * @param arg1 This is a String
+     * @param arg2 This is an int
+     * @return This does not return a value
+     */
     public static int someMethod(String arg1, int arg2) {
         return 5;
     }
