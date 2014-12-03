@@ -60,5 +60,16 @@ public class HBoClass {
 
 		return sub1 - sub2;
 	}
-	
+	/**
+	 * This method demonstrates the MDAS rule.
+	 * @param num1 First number.
+	 * @param num2 Second number.
+	 * @param num3 Third number.
+	 * @param num4 Fourth number.
+	 * @param num5 Fifth number.
+	 * @return Result after going through the MDAS process of operations.
+	 */
+	public static int MDAS(int num1, int num2, int num3, int num4, int num5){
+		return num1*(num2/num3)+num4-num5;
+	}
 }
